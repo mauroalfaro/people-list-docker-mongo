@@ -1,0 +1,11 @@
+[{
+  "activeEmployee": true,
+  "employeeId": "1194",
+  "employeeName": "Empleado",
+  "employeeSurname": "Delmes",
+  "employeeAddress": "Ramon Franco 111, Wilde, Avellaneda",
+  "employeePhone": "1133445566",
+  "employeeEmail": "empleado@falopa.com",
+  "dateHired": "01/01/2001",
+  "isActiveEmployee": true
+}]
